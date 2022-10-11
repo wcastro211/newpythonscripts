@@ -1,5 +1,3 @@
-# eLearnSecurity 2013
-
 import http.client, urllib.parse
 
 username_file = open('user.txt')
