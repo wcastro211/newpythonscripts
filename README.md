@@ -1,1 +1,1 @@
-#Pentesting scripts
+#Pentesting Python scripts
