@@ -1,5 +1,3 @@
-# eLearnSecurity 2013
-
 import socket
 
 SER_ADDR = input("Type the server IP address: ")
