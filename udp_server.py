@@ -1,5 +1,3 @@
-# eLearnSecurity 2013
-
 from socket import *
 import sys
 import select
