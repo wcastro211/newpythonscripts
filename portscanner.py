@@ -1,5 +1,3 @@
-# eLearnSecurity 2013
-
 import socket
 
 target = input('Enter the IP address to scan: ')
