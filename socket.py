@@ -1,8 +1,6 @@
-# eLearnSecurity 2013
-
 import socket
 
-SRV_ADDR = "192.168.1.131"
+SRV_ADDR = "192.168.1.140"
 SRV_PORT = 44444
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
