@@ -1,5 +1,3 @@
-# eLearnSecurity 2013
-
 import socket, platform, os
 
 SRV_ADDR = ""
